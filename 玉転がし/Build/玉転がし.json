@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll-a-Ball",
+"dataUrl": "玉転がし.data.unityweb",
+"asmCodeUrl": "玉転がし.asm.code.unityweb",
+"asmMemoryUrl": "玉転がし.asm.memory.unityweb",
+"asmFrameworkUrl": "玉転がし.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
